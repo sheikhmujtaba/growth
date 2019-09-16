@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: white;
+    text-decoration-line: overline;
+    text-decoration-color: aqua;
+}
+body{
+    background-image: url(light.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work{
+    text-align: left;
+    color:  yellow;
+    font-size: 25px;
+}
+
+a:hover{
+    background-color: gold;
+}
+a{
+    font-size: 20px;
+    color: black;
+}
